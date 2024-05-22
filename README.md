@@ -53,7 +53,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 | conteúdo | Faça um texto para ebook , com foco em markdown e acessibilidade digital, listando os principais bom uso do markdown com acessibilidade e suas extenções com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-##⌨️ com 💜
+## ⌨️ com 💜
 👩🏽Dev [ Thayuana](www.linkedin.com/in/thayuanatrindade)
 
 
